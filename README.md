@@ -8,7 +8,7 @@ Features:
 - USB/UART programming
 - 5V and 3.3V variants
 - Through-hole + SMD support
-- 2-layer PCB
+- 2-layer PCB 
 
 ## Tools Used
 - Altium Designer
